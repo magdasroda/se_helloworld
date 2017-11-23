@@ -1,11 +1,11 @@
-=======================
-01 First Python Program
-=======================
+===========
+Hello World
+===========
 
-::
+Aplikacja Dydaktyczna dla wprowadzających do GIT-a i programowania w Pythonie.
 
-  python main.py
+- Uruchamianie applikacji:
 
-::
+  ::
 
-  flake8 main.py
+    python main.py
